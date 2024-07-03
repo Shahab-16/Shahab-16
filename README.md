@@ -14,6 +14,8 @@
 - 📚 Always eager to learn new technologies.
 - 🌟 Currently doing an internship at Encryptix in data science and ML.
 
+<img align="right" alt="coding" width="375" height="250" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+
 ## Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/md shahab uddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md shahab uddin" height="30" width="40" /></a>
