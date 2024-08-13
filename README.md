@@ -5,9 +5,9 @@
 </span>
 
 ## About Me
-- 🎓 Currently a student in NIT Rourkela, in my second year.
-- 📊 Experienced in data science and machine learning.
-- 🌐 Skilled in frontend web development.
+- 🎓 Currently a student in NIT Rourkela, in pre-final year.
+- 📊 Experienced in Data Science and Machine Learning.
+- 🌐 Skilled in Web Development.
 - 🤖 Passionate about Artificial Intelligence (AI).
 - 💻 DSA enthusiast with 350+ questions solved on LeetCode.
 - 🐍 Proficient in Python, C++, and JavaScript.
