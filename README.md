@@ -9,7 +9,7 @@
 - 📊 Experienced in Data Science and Machine Learning.
 - 🌐 Skilled in Web Development.
 - 🤖 Passionate about Artificial Intelligence (AI).
-- 💻 DSA enthusiast with 350+ questions solved on LeetCode.
+- 💻 DSA enthusiast with 600+ questions solved on LeetCode,GFG,CodeChef and HackerRank.
 - 🐍 Proficient in Python, C++, and JavaScript.
 - 📚 Always eager to learn new technologies.
 - 🌟 Done an internship at Encryptix in Data science and ML.
