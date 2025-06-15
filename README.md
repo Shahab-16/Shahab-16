@@ -25,6 +25,7 @@
 <a href="https://www.hackerrank.com/mdshahabuddin0516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mdshahabuddin0516" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/md_shahab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="md_shahab" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shahab16" target="blank"><img align="center" src="https://image.pngaaa.com/134/6179134-middle.png" alt="shahab16" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/mdshahabu5wb8/" target="blank"><img align="center" src="http://levelupcollege.com/wp-content/uploads/2022/07/gfg-logo.png" atl="shahab" height="30" width="40" /></a>  
 </p>
 
 
