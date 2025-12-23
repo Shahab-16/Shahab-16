@@ -113,9 +113,15 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahab-16&theme=tokyo-night)
 
-## 🧠 Problem Solving Stats
+## Open Source Contributions
+
+![Open Source Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahab-16&theme=tokyonight)
+
+## Problem Solving Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/MD_SHAHAB?theme=dark&font=IBM%20Plex%20Sans)
+
+
 
 
 
