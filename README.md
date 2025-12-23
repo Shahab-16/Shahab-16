@@ -1,21 +1,22 @@
 <h1 align="center">Hey there👋!! </h1>
 
-<span href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=yellow&size=20&lines=%F0%9F%8F%86+Welcome+to+my+GitHub+Profile+%21%21;**%F0%9F%91%89+Myself+MD+Shahab+Uddin+%21%21**;**%F0%9F%92%BB+I+am+Data+Science+and+ML+enthusiast+%21%21**;**%F0%9F%8C%90+and+Full+Stack+Developer+%21%21**;**%F0%9F%92%A1+and+DSA+enthusiast+%21%21**;">
+<span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=yellow&size=20&lines=%F0%9F%8F%86+Welcome+to+my+GitHub+Profile+%21%21;%F0%9F%91%89+Myself+MD+Shahab+Uddin+%21%21;%F0%9F%92%BB+Software+Developer+%21%21;%F0%9F%8C%90+Full+Stack+Developer+%21%21;%F0%9F%94%A7+Backend+%26+API+Designer+%21%21;%F0%9F%A4%96+ML+%26+AI+Enthusiast+(LLMs%2C+Fine-Tuning+%26+AI+Integrations);%F0%9F%92%A1+DSA+Enthusiast+%21%21" />
 </span>
 
-## About Me
-- 🎓 Currently a student in NIT Rourkela, in pre-final year.
-- 💻 Full Stack Developer.
-- 📊 Experienced in Data Science and Machine Learning.
-- 🌐 Skilled in Web Development.
-- 🤖 Passionate about Artificial Intelligence (AI).
-- 💻 DSA enthusiast with 600+ questions solved on LeetCode,GFG,CodeChef and HackerRank.
-- 🐍 Proficient in Python, C++, and JavaScript.
-- 📚 Always eager to learn new technologies.
-- 🌟 Done an internship at Encryptix in Data science and ML.
 
-<img align="right" alt="coding" width="375" height="250" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+<img align="right" alt="coding" width="450" height="400" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
+
+## About Me
+
+- 🎓 Final-year student at **NIT Rourkela**
+- 💻 **Software Developer** with strong Full-Stack experience
+- ⚙️ Experienced in **backend systems, APIs, and software development**
+- 🌐 Skilled in building **scalable web applications** with **system design principles**
+- 🤖 **ML & AI Enthusiast** (LLMs, fine-tuning, AI integrations)
+- 🧠 **DSA enthusiast** with **800+ problems solved** (LeetCode, GFG, CodeChef, HackerRank)
+- 🐍 Proficient in **Python, C++, and JavaScript**
+- 🌟 Interned at **Vizora Enterprises** in **Software Development**
 
 ## Connect with me:
 <p align="left">
@@ -46,20 +47,26 @@
   <img src="https://camo.githubusercontent.com/3c49e31728bcaae1bf324071195b96048cdf7195f24c5dcc30f58e4b9c4f854c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d706c6173746963266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534" alt="Python"/>
   
   <!-- Frameworks & Libraries -->
-  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) 
-  ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD)
-  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) 
-  ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.io-010101?style=plastic&logo=socket.io&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=plastic&logo=webrtc&logoColor=white)
+
 
   <!-- Databases -->
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=plastic&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=plastic&logo=redis&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white)
+
 
   <!-- Tools & Platforms -->
   ![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)
@@ -71,8 +78,11 @@
   <!---Devops--->
   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=plastic&logo=jenkins&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+
 
 
    <!--- Tool i use -->
@@ -83,11 +93,23 @@
   
 </p>
 
+##
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahab-16&show_icons=true&locale=en&layout=compact" alt="shahab-16" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahab-16&" alt="shahab-16" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahab-16&show_icons=true&locale=en" alt="shahab-16" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahab-16&" alt="shahab-16" /></p>
+## 📈 Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahab-16&theme=tokyo-night)
+
+## 🧠 Problem Solving Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/MD_SHAHAB?theme=dark&font=IBM%20Plex%20Sans)
+
+
 
 ## GitHub Trophies
 <p align="left"> 
