@@ -5,16 +5,24 @@
 </span>
 
 
-<img align="right" alt="coding" width="450" height="400" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
+<div align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"
+    alt="coding"
+    height="650"
+    width="700"
+  />
+</div>
 
-## About Me
+## 👋 About Me
 
 - 🎓 Final-year student at **NIT Rourkela**
-- 💻 **Software Developer** with strong Full-Stack experience
-- ⚙️ Experienced in **backend systems, APIs, and software development**
-- 🌐 Skilled in building **scalable web applications** with **system design principles**
+- 💻 **Software Developer** with strong **Full-Stack** experience  
+- ⚙️ Experienced in **backend systems, APIs, and scalable software**
+- 🌐 Skilled in building **production-ready web applications** using **system design principles**
 - 🤖 **ML & AI Enthusiast** (LLMs, fine-tuning, AI integrations)
-- 🧠 **DSA enthusiast** with **800+ problems solved** (LeetCode, GFG, CodeChef, HackerRank)
+- 🧠 **DSA enthusiast** with **800+ problems solved**  
+  *(LeetCode, GFG, CodeChef, HackerRank)*
 - 🐍 Proficient in **Python, C++, and JavaScript**
 - 🌟 Interned at **Vizora Enterprises** in **Software Development**
 
